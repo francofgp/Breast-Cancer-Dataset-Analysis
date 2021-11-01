@@ -1,6 +1,6 @@
 # Breast Cancer Dataset Analysis
 
-### **What is the purpose of this work?**
+### **What is this repository about?**
 
 <br>
 This repository contains a Jupyter Notebook in which I am going to perform an analysis of the Breast cancer dataset, and then apply machine learning models, K Folds, Grid Search, among other methods, and thus comparing their results and which one fits better.
@@ -32,9 +32,10 @@ In addition, what one should take away after reading this paper is the following
 
 
 
-
 ## Description:
+
 ---
+
 The Notebook will have the following structure in the form of **steps**.
 
 
