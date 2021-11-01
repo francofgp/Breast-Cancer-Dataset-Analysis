@@ -52,9 +52,9 @@ The Notebook will have the following structure in the form of **steps**.
 
 <br>
 
-## Files:
+## See the Notebook:
 
--   [Go to Notebook](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb)
+-   [Go to Notebook](https://github.com/francofgp/Breast-Cancer-Dataset-Analysis/blob/main/Breast-Cancer.ipynb)
 ### **DISCLAIMER:** All comments are in spanish in the notebook file
 
 
