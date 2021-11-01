@@ -34,8 +34,6 @@ In addition, what one should take away after reading this paper is the following
 
 ## Description:
 
----
-
 The Notebook will have the following structure in the form of **steps**.
 
 
